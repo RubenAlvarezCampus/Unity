@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Ejercicio_4: MonoBehaviour
 {
-    private int num = 5;
+    private int num = 0;
     // Start is called before the first frame update
     void Start()
     {

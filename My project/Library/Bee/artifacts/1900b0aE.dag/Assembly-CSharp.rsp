@@ -320,9 +320,9 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard/System.Xml.XPath.XDocument.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
--r:"C:/Unity/My project/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
--r:"C:/Unity/My project/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
--r:"C:/Unity/My project/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"C:/Users/campusfp/Desktop/DAM 2ª/Unity/My project/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
+-r:"C:/Users/campusfp/Desktop/DAM 2ª/Unity/My project/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"C:/Users/campusfp/Desktop/DAM 2ª/Unity/My project/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
@@ -354,7 +354,13 @@
 "Assets/Scripts/Ejercicios de C#/Ejercicio_3.cs"
 "Assets/Scripts/Ejercicios de C#/Ejercicio_4.cs"
 "Assets/Scripts/Ejercicios de C#/Ejercicio_5.cs"
+"Assets/Scripts/Ejercicios Unity/Unity_1.cs"
+"Assets/Scripts/Ejercicios Unity/Unity_2.cs"
+"Assets/Scripts/Ejercicios Unity/Unity_3.cs"
+"Assets/Scripts/Ejercicios Unity/Unity_4.cs"
 "Assets/Scripts/prueba.cs"
+"Assets/Scripts/Teoria/follow.cs"
+"Assets/Scripts/Teoria/Movimiento.cs"
 -langversion:9.0
 
 /deterministic

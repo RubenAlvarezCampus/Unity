@@ -57,11 +57,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\prueba.cs" />
-    <Compile Include="Assets\Scripts\Ejercicios de C#\Ejercicio_1.cs" />
     <Compile Include="Assets\Scripts\Ejercicios de C#\Ejercicio_2.cs" />
-    <Compile Include="Assets\Scripts\Ejercicios de C#\Ejercicio_3.cs" />
+    <Compile Include="Assets\Scripts\Teoria\Movimiento.cs" />
+    <Compile Include="Assets\Scripts\Ejercicios Unity\Unity_3.cs" />
     <Compile Include="Assets\Scripts\Ejercicios de C#\Ejercicio_4.cs" />
+    <Compile Include="Assets\Scripts\Ejercicios Unity\Unity_2.cs" />
+    <Compile Include="Assets\Scripts\Ejercicios Unity\Unity_4.cs" />
+    <Compile Include="Assets\Scripts\Ejercicios Unity\Unity_1.cs" />
+    <Compile Include="Assets\Scripts\Ejercicios de C#\Ejercicio_1.cs" />
     <Compile Include="Assets\Scripts\Ejercicios de C#\Ejercicio_5.cs" />
+    <Compile Include="Assets\Scripts\Ejercicios de C#\Ejercicio_3.cs" />
+    <Compile Include="Assets\Scripts\Teoria\follow.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
